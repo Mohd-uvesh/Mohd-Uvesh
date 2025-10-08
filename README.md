@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Mohd
 
-<!--
-**Mohd-uvesh/Mohd-Uvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Data Analyst / Data Engineer* — Python • Pl-SQL • Excel • PowerBI • Pandas • Machine Learning • Statical & Analytic.  
+I build Databases, ETL pipelines, dashboards and data insight projects. Open to freelance & collaboration.
 
-Here are some ideas to get you started:
+## 🔭 Current focus
+- Prediction Product & Components GUI ( ML + GUI )
+- Test Cricket format Analysis & Dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Top projects (pinned)
+- house-rent-prediction-gui — Rent prediction app (Demo & instructions)
+- sales-data-analysis — Sales insights & visualizations
+- student-management-system-mysql — MySQL based student DB project
+- hr-analytics — HR analytics notebook
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mohd-uvesh-06a4942a6
+- Email: your.email@example.com
+
+> I love turning messy data into clear dashboards and useful insights.
