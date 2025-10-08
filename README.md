@@ -4,6 +4,8 @@
 I build Databases, ETL pipelines, dashboards and data insight projects. Open to freelance & collaboration.
 
 ## 🔭 Current focus
+- Building data-driven prediction & Analytics project
+- Exploring Machine Learning and Business Intelligence
 - Prediction Product & Components GUI ( ML + GUI )
 - Test Cricket format Analysis & Dashboards
 
@@ -18,3 +20,4 @@ I build Databases, ETL pipelines, dashboards and data insight projects. Open to 
 - Email: your.email@example.com
 
 > I love turning messy data into clear dashboards and useful insights.
+> 'Python' | 'PL-SQL' | 'Power-Bi' | 'Excel' | 'Mongo-DB' | 'Pandas' | 'Machine Learning'
